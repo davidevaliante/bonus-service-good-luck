@@ -11,8 +11,8 @@ export interface Config {
 }
 
 export const defaultConfig : Config = {
-    streamerId : 11,
-    streamerName : 'topwinscasino',
+    streamerId : 14,
+    streamerName : 'goodluck',
     api : 'https://compare.topadsservices.com',
     primaryColor : '#2b2b2b',
     secondaryColor : '#e1b96e',
@@ -22,8 +22,8 @@ export const defaultConfig : Config = {
 }
 
 export let configuration : Config = {
-    streamerId : 11,
-    streamerName : 'topwinscasino',
+    streamerId : 14,
+    streamerName : 'goodluck',
     api : 'https://compare.topadsservices.com',
     primaryColor : '#2b2b2b',
     secondaryColor : '#e1b96e',
